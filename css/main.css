@@ -1,0 +1,31 @@
+
+body {
+	width: auto;
+    max-width: 100%;
+	margin: 1em;
+	padding-left: .5em;
+	padding-right: .5em;
+	font-family: 'Hammersmith One', sans-serif;
+	background-color: #ffc200;
+}
+
+h1 {
+	text-align: left;
+	font-family: 'Black Han Sans', sans-serif;
+	font-size: 3em;
+	padding-right: 2em;
+}
+
+img{
+	min-width: 50px;
+	min-height: 50px;
+	max-width: 75px
+	/*height:auto;*/
+	max-height: 25%;
+	padding: .325em;
+	border-bottom: solid; color: #ffffff;
+	border-bottom-width: .125em;
+
+
+}
+
